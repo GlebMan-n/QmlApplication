@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<prescriptions version="2.0">
+    <prescription>
+        <xlm_number>4</xlm_number>
+        <xlm_medi>Levothyroxine Sodium CAPS 100 MCG</xlm_medi>
+        <xlm_freq>BID</xlm_freq>
+        <xlm_qty>1</xlm_qty>
+        <xlm_prn>true</xlm_prn>
+        <xlm_start>12.15.2020</xlm_start>
+        <xlm_stop>12.19.2020</xlm_stop>
+    </prescription>
+    <prescription>
+        <xlm_number>5</xlm_number>
+        <xlm_medi>Amoxicill-Clarithro-Omeprazole MISC 500-500-20 MG</xlm_medi>
+        <xlm_freq>QOD</xlm_freq>
+        <xlm_qty>1</xlm_qty>
+        <xlm_prn>true</xlm_prn>
+        <xlm_start>12.15.2020</xlm_start>
+        <xlm_stop>12.19.2020</xlm_stop>
+    </prescription>
+</prescriptions>

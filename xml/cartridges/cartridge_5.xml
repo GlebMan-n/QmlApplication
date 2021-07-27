@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bin version="2.0">
+    <item>
+        <patient>Sergey Bernstein</patient>
+        <date>10/12/2020 9:15 AM</date>
+        <pid>39842982</pid>
+        <bid>mAquAS</bid>
+        <cid>12Gha</cid>
+        <qr_code_source>QR_example_1.svg</qr_code_source>
+        <med_data>med_1.xml</med_data>
+        <photo_source>photo_1.xml</photo_source>
+        <color>#98cda9</color>
+        <border_width>10</border_width>
+        <box_file>qrc:/img/outputs/20200325-104931_aspirin2/output.jpg</box_file>
+        <photos>
+            <photo>qrc:/img/outputs/20200325-104931_aspirin2/cut_rotated_rgb0.jpg</photo>
+            <photo>qrc:/img/outputs/20200325-104931_aspirin2/cut_rotated_rgb1.jpg</photo>
+            <photo>qrc:/img/outputs/20200325-104931_aspirin2/cut_rotated_rgb2.jpg</photo>
+        </photos>
+    </item>
+     <item>
+        <patient>Georgy Adelson-Velsky</patient>
+        <date>10/12/2020 8:19 AM</date>
+        <pid>779842982</pid>
+        <bid>hdBdDEu</bid>
+        <cid>12Gha</cid>
+        <qr_code_source>QR_example_2.svg</qr_code_source>
+        <med_data>med_2.xml</med_data>
+        <photo_source>photo_2.xml</photo_source>
+        <color>#edeb63</color>
+        <border_width>10</border_width>
+        <box_file>qrc:/img/outputs/20200325-144305_aspirin2/output.jpg</box_file>
+        <photos>
+        <photo>qrc:/img/outputs/20200325-144305_aspirin2/cut_rotated_rgb0.jpg</photo>
+        <photo>qrc:/img/outputs/20200325-144305_aspirin2/cut_rotated_rgb1.jpg</photo>
+        </photos>
+    </item>
+    <item>
+        <patient>Nikolai Chebotaryov</patient>
+        <date>10/12/2020 10:30 AM</date>
+        <pid>29842982</pid>
+        <bid>mAquAS</bid>
+        <cid>b2Gha</cid>
+        <qr_code_source>QR_example_3.svg</qr_code_source>
+        <photo_source>photo_3.xml</photo_source>
+        <med_data>med_3.xml</med_data>
+        <color>#ff3f3f</color>
+        <border_width>10</border_width>
+        <box_file>qrc:/img/outputs/20200325-153730_aspirin2/output.jpg</box_file>
+        <photos>
+        <photo>qrc:/img/outputs/20200325-153730_aspirin2/cut_rotated_rgb0.jpg</photo>
+        </photos>
+    </item>
+    <item>
+        <patient>Vladimir Drinfeld</patient>
+        <date>10/12/2020 11:15 AM</date>
+        <pid>39842982</pid>
+        <bid>mAquAS</bid>
+        <cid>d2Gha</cid>
+        <qr_code_source>QR_example_4.svg</qr_code_source>
+        <photo_source>photo_4.xml</photo_source>
+        <med_data>med_4.xml</med_data>
+        <color>#98cda9</color>
+        <border_width>10</border_width>
+        <box_file>qrc:/img/outputs/20200325-144305_aspirin2/output.jpg</box_file>
+        <photos>
+        <photo>qrc:/img/outputs/20200325-144305_aspirin2/cut_rotated_rgb0.jpg</photo>
+        <photo>qrc:/img/outputs/20200325-144305_aspirin2/cut_rotated_rgb1.jpg</photo>
+        </photos>
+    </item>
+    <item>
+        <patient>Dmitri Egorov</patient>
+        <date>10/12/2020 11:45 AM</date>
+        <pid>49842982</pid>
+        <bid>mAquAS</bid>
+        <cid>d2Gha</cid>
+        <qr_code_source>QR_example_5.svg</qr_code_source>
+        <med_data>med_5.xml</med_data>
+        <photo_source>photo_5.xml</photo_source>
+        <color>#edeb63</color>
+        <border_width>10</border_width>
+        <box_file>qrc:/img/outputs/20200325-153730_aspirin2/output.jpg</box_file>
+        <photos>
+        <photo>qrc:/img/outputs/20200325-153730_aspirin2/cut_rotated_rgb0.jpg</photo>
+        </photos>
+    </item>
+    <item>
+        <patient>Ivan Fesenko</patient>
+        <date>10/12/2020 1:15 PM</date>
+        <pid>59842982</pid>
+        <bid>mAquAS</bid>
+        <cid>a2Gha</cid>
+        <qr_code_source>QR_example_6.svg</qr_code_source>
+        <photo_source>photo_6.xml</photo_source>
+        <med_data>med_6.xml</med_data>
+        <color>#98cda9</color>
+        <border_width>10</border_width>
+        <box_file>qrc:/img/outputs/20200325-144305_aspirin2/output.jpg</box_file>
+        <photos>
+        <photo>qrc:/img/outputs/20200325-144305_aspirin2/cut_rotated_rgb0.jpg</photo>
+        <photo>qrc:/img/outputs/20200325-144305_aspirin2/cut_rotated_rgb1.jpg</photo>
+        </photos>
+    </item>
+    <item>
+        <patient>Boris Galerkin</patient>
+        <date>10/12/2020 2:15 PM</date>
+        <pid>69842982</pid>
+        <bid>mAquAS</bid>
+        <cid>32Gha</cid>
+        <qr_code_source>QR_example_7.svg</qr_code_source>
+        <photo_source>photo_7.xml</photo_source>
+        <med_data>med_7.xml</med_data>
+        <color>#98cda9</color>
+        <border_width>10</border_width>
+        <box_file>qrc:/img/outputs/20200325-144426_aspirin2/output.jpg</box_file>
+        <photos>
+        <photo>qrc:/img/outputs/20200325-144426_aspirin2/cut_rotated_rgb0.jpg</photo>
+        <photo>qrc:/img/outputs/20200325-144426_aspirin2/cut_rotated_rgb1.jpg</photo>
+        <photo>qrc:/img/outputs/20200325-144426_aspirin2/cut_rotated_rgb2.jpg</photo>
+        <photo>qrc:/img/outputs/20200325-144426_aspirin2/cut_rotated_rgb3.jpg</photo>
+        <photo>qrc:/img/outputs/20200325-144426_aspirin2/cut_rotated_rgb1.jpg</photo>
+        </photos>
+    </item>
+    <item>
+        <patient>Sergei Godunov</patient>
+        <date>10/12/2020 2:45 PM</date>
+        <pid>59842982</pid>
+        <bid>mAquAS</bid>
+        <cid>62Gha</cid>
+        <qr_code_source>QR_example_8.svg</qr_code_source>
+        <photo_source>photo_8.xml</photo_source>
+        <med_data>med_8.xml</med_data>
+        <color>#edeb63</color>
+        <border_width>10</border_width>
+        <box_file>qrc:/img/outputs/20200325-153730_aspirin2/output.jpg</box_file>
+        <photos>
+        <photo>qrc:/img/outputs/20200325-153730_aspirin2/cut_rotated_rgb0.jpg</photo>
+        </photos>
+    </item>
+    <item>
+        <patient>Leonid Kantorovich</patient>
+        <date>10/12/2020 3:15 PM</date>
+        <pid>99842982</pid>
+        <bid>mAquAS</bid>
+        <cid>h2Gha</cid>
+        <qr_code_source>QR_example_9.svg</qr_code_source>
+        <photo_source>photo_9.xml</photo_source>
+        <med_data>med_9.xml</med_data>
+        <color>#ff3f3f</color>
+        <border_width>10</border_width>
+        <box_file>qrc:/img/outputs/20200325-144305_aspirin2/output.jpg</box_file>
+        <photos>
+        <photo>qrc:/img/outputs/20200325-144305_aspirin2/cut_rotated_rgb0.jpg</photo>
+        <photo>qrc:/img/outputs/20200325-144305_aspirin2/cut_rotated_rgb1.jpg</photo>
+        </photos>
+
+    </item>
+    <item>
+        <patient>Anatoly Karatsuba</patient>
+        <date>10/12/2020 3:45 PM</date>
+        <pid>89842982</pid>
+        <bid>mAquAS</bid>
+        <cid>42Gha</cid>
+        <qr_code_source>QR_example_10.svg</qr_code_source>
+        <photo_source>photo_10.xml</photo_source>
+        <med_data>med_10.xml</med_data>
+        <color>#98cda9</color>
+        <border_width>10</border_width>
+        <box_file>qrc:/img/outputs/20200325-104931_aspirin2/output.jpg</box_file>
+        <photos>
+            <photo>qrc:/img/outputs/20200325-104931_aspirin2/cut_rotated_rgb0.jpg</photo>
+            <photo>qrc:/img/outputs/20200325-104931_aspirin2/cut_rotated_rgb1.jpg</photo>
+            <photo>qrc:/img/outputs/20200325-104931_aspirin2/cut_rotated_rgb2.jpg</photo>
+        </photos>
+    </item>
+    <item>
+        <patient>Leonid Khachiyan</patient>
+        <date>10/12/2020 4:15 PM</date>
+        <pid>59842982</pid>
+        <bid>mAquAS</bid>
+        <cid>f2Gha</cid>
+        <qr_code_source>QR_example_11.svg</qr_code_source>
+        <photo_source>photo_11.xml</photo_source>
+        <med_data>med_11.xml</med_data>
+        <color>#edeb63</color>
+        <border_width>10</border_width>
+        <box_file>qrc:/img/outputs/20200325-104931_aspirin2/output.jpg</box_file>
+        <photos>
+            <photo>qrc:/img/outputs/20200325-104931_aspirin2/cut_rotated_rgb0.jpg</photo>
+            <photo>qrc:/img/outputs/20200325-104931_aspirin2/cut_rotated_rgb1.jpg</photo>
+            <photo>qrc:/img/outputs/20200325-104931_aspirin2/cut_rotated_rgb2.jpg</photo>
+        </photos>
+    </item>
+    <item>
+        <patient>Andrey Kolmogorov</patient>
+        <date>10/12/2020 4:45 PM</date>
+        <pid>65432982</pid>
+        <bid>mAquAS</bid>
+        <cid>A2Gha</cid>
+        <qr_code_source>QR_example_12.svg</qr_code_source>
+        <photo_source>photo_12.xml</photo_source>
+        <med_data>med_12.xml</med_data>
+        <color>#98cda9</color>
+        <border_width>10</border_width>
+        <box_file>qrc:/img/outputs/20200325-104931_aspirin2/output.jpg</box_file>
+        <photos>
+            <photo>qrc:/img/outputs/20200325-104931_aspirin2/cut_rotated_rgb0.jpg</photo>
+            <photo>qrc:/img/outputs/20200325-104931_aspirin2/cut_rotated_rgb1.jpg</photo>
+            <photo>qrc:/img/outputs/20200325-104931_aspirin2/cut_rotated_rgb2.jpg</photo>
+        </photos>
+    </item>
+</bin>
+

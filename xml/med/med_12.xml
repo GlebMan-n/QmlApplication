@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meds version="2.0">
+   <med>
+        <number>1</number>
+        <name>Xanax XR TB24 1 MG</name>
+        <qty>3</qty>
+    </med>
+    <med>
+        <number>2</number>
+        <name>Canagliflozin-Metformin HCl TABS 50-1000 MG</name>
+        <qty>1</qty>
+    </med>
+    <med>
+        <number>3</number>
+        <name>Lyrica CAPS 100 MG</name>
+        <qty>1</qty>
+    </med>
+</meds>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos version="2.0">   
+       <photo>
+            <filename>tmp_img_1.jpg</filename>
+            <name>0</name>
+            <qty>1</qty>
+        </photo>
+        <photo>
+            <filename>tmp_img_2.jpg</filename>
+            <name>0</name>
+            <qty>2</qty>
+        </photo>
+</photos>
+

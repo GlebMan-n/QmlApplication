@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<areas version="2.0">
+    <area>
+        <xlm_day>1 20 2015 Dec</xlm_day>
+        <xlm_file>prn_bin_1.xml</xlm_file>
+    </area>
+    <area>
+        <xlm_day>1 20 2015 Dec</xlm_day>
+        <xlm_file>prn_bin_2.xml</xlm_file>
+    </area>
+    <area>
+        <xlm_day>1 20 2015 Dec</xlm_day>
+        <xlm_file>prn_bin_3.xml</xlm_file>
+    </area>
+</areas>

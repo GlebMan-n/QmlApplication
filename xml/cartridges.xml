@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cartridges version="2.0">
+    <cartridge>
+        <caption>1</caption>
+        <color>red</color>
+        <data>cartridge_1.xml</data>
+        <name>Dmytro Doe</name>
+        <date>12/11/2020 01:32 PM</date>
+        <facility>Sophic Medical</facility>
+        <day_supply>30</day_supply>
+        <cartridge>1</cartridge>
+        <displayed_bins>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, </displayed_bins>
+    </cartridge>
+    <cartridge>
+        <caption>2</caption>
+        <color>green</color>
+        <data>cartridge_2.xml</data>
+        <name>Andrei Okounkov</name>
+        <date>12/11/2020 01:32 PM</date>
+        <facility>Sophic Medical</facility>
+        <day_supply>30</day_supply>
+        <cartridge>2</cartridge>
+        <displayed_bins>1, 2, 3, </displayed_bins>
+    </cartridge>
+    <cartridge>
+        <caption>3</caption>
+        <color>yellow</color>
+        <data>cartridge_3.xml</data>
+        <name>Mikhail Ostrogradsky</name>
+        <date>12/11/2020 01:32 PM</date>
+        <facility>Sophic Medical</facility>
+        <day_supply>30</day_supply>
+        <cartridge>3</cartridge>
+        <displayed_bins>1, 2, 3, 4, </displayed_bins>
+    </cartridge>
+    <cartridge>
+        <caption>4</caption>
+        <color>def</color>
+        <data>cartridge_4.xml</data>
+        <name></name>
+        <date></date>
+        <facility></facility>
+        <day_supply></day_supply>
+        <cartridge></cartridge>
+        <displayed_bins></displayed_bins>
+    </cartridge>
+    <cartridge>
+        <caption>5</caption>
+        <color>red</color>
+        <data>cartridge_5.xml</data>
+        <name>Lev Pontryagin</name>
+        <date>12/11/2020 01:32 PM</date>
+        <facility>Sophic Medical</facility>
+        <day_supply>30</day_supply>
+        <cartridge>5</cartridge>
+        <displayed_bins>1, 2, 3, 4, 5, 6, 7, </displayed_bins>
+    </cartridge>
+    <cartridge>
+        <caption>6</caption>
+        <color>yellow</color>
+        <data>cartridge_6.xml</data>
+        <name>Yury Prokhorov</name>
+        <date>12/11/2020 01:32 PM</date>
+        <facility>Sophic Medical</facility>
+        <day_supply>30</day_supply>
+        <cartridge>6</cartridge>
+        <displayed_bins>1, 2, 3, 4, 5, 6, </displayed_bins>
+    </cartridge>
+    <cartridge>
+        <caption>7</caption>
+        <color>green</color>
+        <data>cartridge_7.xml</data>
+        <name>Alexander Razborov</name>
+        <date>12/11/2020 01:32 PM</date>
+        <facility>Sophic Medical</facility>
+        <day_supply>30</day_supply>
+        <cartridge>7</cartridge>
+        <displayed_bins>1, 2, 3, 4, 5, 6, </displayed_bins>
+    </cartridge>
+    <cartridge>
+        <caption>8</caption>
+        <color>red</color>
+        <data>cartridge_8.xml</data>
+        <name>Lev Schnirelmann</name>
+        <date>12/11/2020 01:32 PM</date>
+        <facility>Sophic Medical</facility>
+        <day_supply>30</day_supply>
+        <cartridge>8</cartridge>
+        <displayed_bins>1, 2, 3, 4, 5, 6, </displayed_bins>
+    </cartridge>
+    <cartridge>
+        <caption>9</caption>
+        <color>green</color>
+        <data>cartridge_9.xml</data>
+        <name>Igor Shafarevich</name>
+        <date>12/11/2020 01:32 PM</date>
+        <facility>Sophic Medical</facility>
+        <day_supply>30</day_supply>
+        <cartridge>9</cartridge>
+        <displayed_bins>1, 2, 3, 4, </displayed_bins>
+    </cartridge>
+    <cartridge>
+        <caption>10</caption>
+        <color>green</color>
+        <data>cartridge_10.xml</data>
+        <name>Moses Schönfinkel</name>
+        <date>12/11/2020 01:32 PM</date>
+        <facility>Sophic Medical</facility>
+        <day_supply>30</day_supply>
+        <cartridge>10</cartridge>
+        <displayed_bins>1, 2, 3, 4, 5, </displayed_bins>
+    </cartridge>
+    <cartridge>
+        <caption>11</caption>
+        <color>green</color>
+        <data>cartridge_11.xml</data>
+        <name>Yakov Sinai</name>
+        <date>12/11/2020 01:32 PM</date>
+        <facility>Sophic Medical</facility>
+        <day_supply>30</day_supply>
+        <cartridge>11</cartridge>
+        <displayed_bins>1, 2, 3, 4,</displayed_bins>
+    </cartridge>
+    <cartridge>
+        <caption>12</caption>
+        <color>green</color>
+        <data>cartridge_12.xml</data>
+        <name>Eugen Slutsky</name>
+        <date>12/11/2020 01:32 PM</date>
+        <facility>Sophic Medical</facility>
+        <day_supply>30</day_supply>
+        <cartridge>12</cartridge>
+        <displayed_bins>1, 2, 3, 4, 5, </displayed_bins>
+    </cartridge>
+    <cartridge>
+        <caption>13</caption>
+        <color>green</color>
+        <data>cartridge_13.xml</data>
+        <name>Stanislav Smirnov</name>
+        <date>12/11/2020 01:32 PM</date>
+        <facility>Sophic Medical</facility>
+        <day_supply>30</day_supply>
+        <cartridge>13</cartridge>
+        <displayed_bins>1, </displayed_bins>
+    </cartridge>
+</cartridges>

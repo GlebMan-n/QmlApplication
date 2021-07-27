@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bins version="2.0">
+    <bin>
+        <xlm_dose>Bin 1</xlm_dose>
+        <xlm_time>10:15AM</xlm_time>
+		<xlm_file>sch_medi_1.xml</xlm_file>
+    </bin>   
+	<bin>
+        <xlm_dose>Bin 2</xlm_dose>
+        <xlm_time>10:45AM</xlm_time>
+		<xlm_file>sch_medi_2.xml</xlm_file>
+    </bin>   
+	<bin>
+        <xlm_dose>Bin 3</xlm_dose>
+        <xlm_time>11:15AM</xlm_time>
+		<xlm_file>sch_medi_3.xml</xlm_file>
+    </bin>   
+</bins>

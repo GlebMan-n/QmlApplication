@@ -1,0 +1,1 @@
+CREATE USER IF NOT EXISTS 'sophic_medical'@'localhost' IDENTIFIED BY '12345678';
